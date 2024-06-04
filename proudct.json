@@ -1,0 +1,44 @@
+{
+    "product_id": "10012",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360-degree sound and 12 hours of playtime.",
+    "price": 69.99,
+    "flash_sale": true,
+    "currency": "USD",
+    "discount": 15,
+    "brand": "SoundWave",
+    "availability": "In Stock",
+    "ratings": 4.5,
+    "reviews_count": 250,
+    "mainImage": {
+      "url": "https://th.bing.com/th/id/OIP.ME7w8biTCoGCGAD20L1S6wHaHX?w=182&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "alt": "Main view of Bluetooth Speaker"
+    },
+    "images": [
+      {
+        "url": "https://th.bing.com/th/id/OIP.VRbnBXo-7QmDmxO40NWDKwHaHa?w=89&h=89&c=1&rs=1&qlt=90&r=0&dpr=1.3&pid=InlineBlock",
+        "alt": "Front view of Bluetooth Speaker"
+      },
+      {
+        "url": "https://th.bing.com/th/id/OIP.PfC8YTkuKoceYDivqS5t7wHaHa?w=179&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Side view of Bluetooth Speaker"
+      }
+    ],
+    "features": [
+      "360-degree sound",
+      "12 hours of playtime",
+      "Water-resistant",
+      "Bluetooth 5.0",
+      "Built-in microphone"
+    ],
+    "colors": ["Black", "Blue", "Red"],
+    "categories": ["Audio", "
+    "],
+    "warranty": "1 year",
+    "shipping_details": {
+      "weight": "600g",
+      "dimensions": "15cm x 10cm x 10cm",
+      "shipping_cost": 6.99,
+      "estimated_delivery": "3-5 business days"
+    }
+  }

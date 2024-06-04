@@ -1,0 +1,495 @@
+[
+    {
+      "product_id": "12345",
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless Bluetooth headphones with noise cancellation and 20 hours of battery life.",
+      "price": 79.99,
+      "currency": "USD",
+      "discount": 39,
+      "category": "Electronics",
+      "brand": "TechSound",
+      "availability": "In Stock",
+      "ratings": 4.5,
+      "reviews_count": 120,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.XDbRMoi4JZQ1x8h5UeAseQHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Wireless Bluetooth Headphones"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.uhDoRJYDJaUsTsggZiytUQHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Wireless Bluetooth Headphones"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.162XgA3LgtEP8dEewA6ETAHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Wireless Bluetooth Headphones"
+        }
+      ],
+      "features": [
+        "Bluetooth 5.0 connectivity",
+        "Active noise cancellation",
+        "20 hours of battery life",
+        "Built-in microphone",
+        "Comfortable ear cushions"
+      ],
+      "colors": ["Black", "White", "Red"],
+      "categories": ["Electronics", "Headphones"],
+      "warranty": "1 year",
+      "shipping_details": {
+        "weight": "300g",
+        "dimensions": "25cm x 20cm x 10cm",
+        "shipping_cost": 5.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12346",
+      "name": "Organic Green Tea",
+      "description": "100% organic green tea leaves for a refreshing and healthy drink.",
+      "price": 14.99,
+      "currency": "USD",
+      "discount": 10,
+      "category": "Groceries",
+      "brand": "HealthyLeaf",
+      "availability": "In Stock",
+      "ratings": 4.8,
+      "reviews_count": 85,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.cYG1bAjGPyshL3BPe-U7cQHaHb?w=190&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Organic Green Tea"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.38WoWF8IifxlWpuyALj-fgHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Organic Green Tea"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.ZNphidqszMn53lOJPmcBrwHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Organic Green Tea"
+        }
+      ],
+      "features": [
+        "100% organic",
+        "Rich in antioxidants",
+        "Promotes healthy metabolism"
+      ],
+      "categories": ["Groceries", "Beverages"],
+      "warranty": "N/A",
+      "shipping_details": {
+        "weight": "200g",
+        "dimensions": "15cm x 10cm x 5cm",
+        "shipping_cost": 3.99,
+        "estimated_delivery": "2-4 business days"
+      }
+    },
+    {
+      "product_id": "12347",
+      "name": "Stainless Steel Water Bottle",
+      "description": "Eco-friendly stainless steel water bottle with double-wall insulation.",
+      "price": 24.99,
+      "currency": "USD",
+      "discount": 20,
+      "category": "Home & Kitchen",
+      "brand": "EcoHydrate",
+      "availability": "In Stock",
+      "ratings": 4.7,
+      "reviews_count": 150,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.tXW4rWK_eMToodQMJV4vpwHaHa?w=252&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Stainless Steel Water Bottle"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.NwbR8JtY2Hzf3nuxByFpQQHaHa?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Stainless Steel Water Bottle"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.vrO_wwl4qjBpxdM-gamueAHaHa?w=189&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Stainless Steel Water Bottle"
+        }
+      ],
+      "features": [
+        "Double-wall insulation",
+        "Keeps beverages cold for 24 hours",
+        "BPA-free"
+      ],
+      "colors": ["Silver", "Blue", "Green"],
+      "categories": ["Home & Kitchen", "Drinkware"],
+      "warranty": "2 years",
+      "shipping_details": {
+        "weight": "500g",
+        "dimensions": "25cm x 7cm x 7cm",
+        "shipping_cost": 4.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12348",
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with extra thickness for comfort and support.",
+      "price": 29.99,
+      "currency": "USD",
+      "discount": 15,
+      "category": "Sports & Outdoors",
+      "brand": "FlexFit",
+      "availability": "In Stock",
+      "ratings": 4.6,
+      "reviews_count": 200,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.3m2xMB00iHhzUzVp6nyzDwHaGp?w=151&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Yoga Mat"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.oadOOuJvKoSgfP5OPP20XwHaHa?w=222&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Yoga Mat"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.F9BM4dBmQ1iftDTjlEWHeAHaHa?w=147&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Yoga Mat"
+        }
+      ],
+      "features": [
+        "Non-slip surface",
+        "Extra thick for comfort",
+        "Lightweight and portable"
+      ],
+      "colors": ["Purple", "Gray", "Pink"],
+      "categories": ["Sports & Outdoors", "Fitness Equipment"],
+      "warranty": "1 year",
+      "shipping_details": {
+        "weight": "1kg",
+        "dimensions": "183cm x 61cm x 1cm",
+        "shipping_cost": 6.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12349",
+      "name": "Leather Wallet",
+      "description": "Premium leather wallet with RFID blocking technology.",
+      "price": 39.99,
+      "currency": "USD",
+      "discount": 25,
+      "category": "Fashion",
+      "brand": "UrbanChic",
+      "availability": "In Stock",
+      "ratings": 4.4,
+      "reviews_count": 90,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.hcrwntYovVPJrnCrd7YUegHaIB?w=170&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Leather Wallet"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.bkpu1_C9FhjcmdJJQGbIpwHaH2?w=173&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Leather Wallet"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.K20Wn-m8-lbLSziENheieAHaHa?w=245&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Leather Wallet"
+        }
+      ],
+      "features": [
+        "RFID blocking technology",
+        "Multiple card slots",
+        "Premium leather"
+      ],
+      "colors": ["Black", "Brown"],
+      "categories": ["Fashion", "Accessories"],
+      "warranty": "1 year",
+      "shipping_details": {
+        "weight": "150g",
+        "dimensions": "12cm x 9cm x 2cm",
+        "shipping_cost": 3.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12350",
+      "name": "Smart LED Light Bulb",
+      "description": "Energy-efficient smart LED light bulb with Wi-Fi connectivity and color changing features.",
+      "price": 19.99,
+      "currency": "USD",
+      "discount": 30,
+      "category": "Home Improvement",
+      "brand": "BrightHome",
+      "availability": "In Stock",
+      "ratings": 4.3,
+      "reviews_count": 140,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.GyeHyHFI1XombEJUJxLXswHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Smart LED Light Bulb"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.OIbqTUSVu3YmH8fygR8FFgHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Smart LED Light Bulb"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.K7DtjmEBLNtTeCEprU8m2QAAAA?w=199&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Smart LED Light Bulb"
+        }
+      ],
+      "features": [
+        "Wi-Fi connectivity",
+        "Color changing",
+        "Energy efficient"
+      ],
+      "categories": ["Home Improvement", "Lighting"],
+      "warranty": "2 years",
+      "shipping_details": {
+        "weight": "100g",
+        "dimensions": "12cm x 6cm x 6cm",
+        "shipping_cost": 2.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12351",
+      "name": "Wireless Charging Pad",
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+      "price": 29.99,
+      "currency": "USD",
+      "discount": 10,
+      "category": "Electronics",
+      "brand": "ChargeMax",
+      "availability": "In Stock",
+      "ratings": 4.5,
+      "reviews_count": 75,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.-wMLAGjZZeFjzNYDT8keygHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Wireless Charging Pad"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.6ExnpYkH4miaiR8LKjFGkAHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Wireless Charging Pad"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.LWzVe9UgOyko3aZPJze9JQHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Wireless Charging Pad"
+        }
+      ],
+      "features": [
+        "Fast wireless charging",
+        "Compatible with Qi-enabled devices",
+        "Slim design"
+      ],
+      "colors": ["Black", "White"],
+      "categories": ["Electronics", "Accessories"],
+      "warranty": "1 year",
+      "shipping_details": {
+        "weight": "150g",
+        "dimensions": "10cm x 10cm x 1cm",
+        "shipping_cost": 3.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12352",
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes and long battery life.",
+      "price": 49.99,
+      "currency": "USD",
+      "discount": 15,
+      "category": "Health & Personal Care",
+      "brand": "SmileBright",
+      "availability": "In Stock",
+      "ratings": 4.6,
+      "reviews_count": 110,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.ASCnlDWnoO06QWFowje8ugHaHa?w=143&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Electric Toothbrush"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.Bq7aQfaSlMAOviCkHs8LJwHaHa?w=143&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Electric Toothbrush"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.fzZ-xAH9hmEFOQbD4j8TtAHaHa?w=199&h=199&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Electric Toothbrush"
+        }
+      ],
+      "features": [
+        "Multiple cleaning modes",
+        "Long battery life",
+        "Rechargeable"
+      ],
+      "colors": ["White", "Blue"],
+      "categories": ["Health & Personal Care", "Oral Care"],
+      "warranty": "2 years",
+      "shipping_details": {
+        "weight": "200g",
+        "dimensions": "25cm x 3cm x 3cm",
+        "shipping_cost": 4.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12353",
+      "name": "Gaming Mouse",
+      "description": "High-precision gaming mouse with customizable RGB lighting and programmable buttons.",
+      "price": 59.99,
+      "currency": "USD",
+      "discount": 20,
+      "category": "Computers & Accessories",
+      "brand": "GamerPro",
+      "availability": "In Stock",
+      "ratings": 4.8,
+      "reviews_count": 180,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.r5M9loX6D9NUFui0sk3q0gHaHa?w=202&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Gaming Mouse"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.egJk7L3tI4vmibGnYlGurgHaHa?w=202&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Gaming Mouse"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.i_nMfPQiAPQQt7Zoj70_XAHaHa?w=209&h=209&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Gaming Mouse"
+        }
+      ],
+      "features": [
+        "High-precision sensor",
+        "Customizable RGB lighting",
+        "Programmable buttons"
+      ],
+      "colors": ["Black"],
+      "categories": ["Computers & Accessories", "Peripherals"],
+      "warranty": "2 years",
+      "shipping_details": {
+        "weight": "100g",
+        "dimensions": "12cm x 7cm x 4cm",
+        "shipping_cost": 3.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12354",
+      "name": "Cookware Set",
+      "description": "10-piece non-stick cookware set for easy and healthy cooking.",
+      "price": 99.99,
+      "currency": "USD",
+      "discount": 25,
+      "category": "Home & Kitchen",
+      "brand": "ChefMate",
+      "availability": "In Stock",
+      "ratings": 4.9,
+      "reviews_count": 230,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.gn7IPtEKWAsHx94gvsdjJgHaHa?w=188&h=188&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Cookware Set"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.e_wyr-TCD_cx2HmIFb-vNAHaHa?w=187&h=188&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Cookware Set"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.NPIuDZeZpRsksuehUNilKgHaHf?w=187&h=188&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Cookware Set"
+        }
+      ],
+      "features": [
+        "Non-stick coating",
+        "Dishwasher safe",
+        "Oven safe up to 400°F"
+      ],
+      "colors": ["Black", "Red"],
+      "categories": ["Home & Kitchen", "Cookware"],
+      "warranty": "5 years",
+      "shipping_details": {
+        "weight": "5kg",
+        "dimensions": "60cm x 30cm x 25cm",
+        "shipping_cost": 9.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12355",
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with breathable mesh and superior cushioning.",
+      "price": 69.99,
+      "currency": "USD",
+      "discount": 15,
+      "category": "Fashion",
+      "brand": "SpeedRunner",
+      "availability": "In Stock",
+      "ratings": 4.7,
+      "reviews_count": 95,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.nuEfzOXLoJ1XPEKe69oOkwHaHa?w=170&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Running Shoes"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.e1hXV9nipfQVAylL25rkZwHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Front view of Running Shoes"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.s6YswmhTxPIx524zBwDmKAHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Running Shoes"
+        }
+      ],
+      "features": [
+        "Breathable mesh",
+        "Superior cushioning",
+        "Lightweight design"
+      ],
+      "colors": ["Black", "Blue", "Gray"],
+      "categories": ["Fashion", "Footwear"],
+      "warranty": "1 year",
+      "shipping_details": {
+        "weight": "700g",
+        "dimensions": "30cm x 20cm x 10cm",
+        "shipping_cost": 5.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    },
+    {
+      "product_id": "12356",
+      "name": "Smartwatch",
+      "description": "Advanced smartwatch with fitness tracking, heart rate monitor, and GPS.",
+      "price": 149.99,
+      "currency": "USD",
+      "discount": 20,
+      "category": "Electronics",
+      "brand": "TechWatch",
+      "availability": "In Stock",
+      "ratings": 4.6,
+      "reviews_count": 210,
+      "mainImage": {
+        "url": "https://th.bing.com/th/id/OIP.6RjIleMR6JjDGl-yonyJzwHaHa?w=138&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "alt": "Main view of Smartwatch"
+      },
+      "images": [
+        {
+          "url": "https://th.bing.com/th/id/OIP.j2PqAuJv8pCdlX-MD44F_wHaEK?w=89&h=89&c=1&rs=1&qlt=90&r=0&dpr=1.3&pid=InlineBlock",
+          "alt": "Front view of Smartwatch"
+        },
+        {
+          "url": "https://th.bing.com/th/id/OIP.-OmRqu6PMDxijnXimzRWCQHaJL?w=138&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "alt": "Side view of Smartwatch"
+        }
+      ],
+      "features": [
+        "Fitness tracking",
+        "Heart rate monitor",
+        "GPS"
+      ],
+      "colors": ["Black", "Silver"],
+      "categories": ["Electronics", "Wearable Technology"],
+      "warranty": "1 year",
+      "shipping_details": {
+        "weight": "50g",
+        "dimensions": "4cm x 4cm x 1cm",
+        "shipping_cost": 4.99,
+        "estimated_delivery": "3-5 business days"
+      }
+    }
+  ]
+  
